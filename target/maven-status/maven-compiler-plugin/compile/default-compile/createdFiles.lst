@@ -1,0 +1,11 @@
+pizza\AbstractEvent$1.class
+pizza\PolicyHandler.class
+pizza\SatisfactionView.class
+pizza\SatisfactionViewRepository.class
+pizza\SatisfactionViewViewHandler.class
+pizza\config\kafka\KafkaProcessor.class
+pizza\MongoConfig.class
+pizza\SatisfactionWritten.class
+pizza\DeliveryCompleted.class
+pizza\AbstractEvent.class
+pizza\SatisfactionHistoryManagementApplication.class
